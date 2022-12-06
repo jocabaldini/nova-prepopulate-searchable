@@ -1,6 +1,6 @@
 <?php
 
-namespace GeneaLabs\NovaPrepopulateSearchable;
+namespace JocaBaldini\NovaPrepopulateSearchable;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;
